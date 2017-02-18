@@ -1,0 +1,9 @@
+*~
+.cache/
+.zcompdump*
+.zsh_history
+.bash_history
+npm-debug.log
+.directory_history/
+.emacs.d/
+bin
